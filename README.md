@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi guys
+I do stuff sometimes.
+Here are my top projects:
+- they're not finished yet
 
 <!--
 **Copperpixel/Copperpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
